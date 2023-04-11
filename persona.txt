@@ -1,0 +1,21 @@
+Sure, here is an example of a persona you can use as a template:
+
+Name: Johnna byrd
+
+Age: 28
+
+Gender: Male
+
+Location: Ozark
+
+Job title: Sales Manager
+
+Bio: John is a busy professional who enjoys staying active and exploring the city. He is married with two children and values his time with his family. In his free time, he enjoys playing basketball and trying out new restaurants with friends.
+
+Purpose of the visit to the website: John is looking for a local gym where he can work out before or after work.
+
+Interests: Basketball, dining out, spending time with family
+
+Challenges: Balancing work and family life, finding time to exercise regularly
+
+Goals: Improve his physical fitness and maintain a healthy lifestyle
